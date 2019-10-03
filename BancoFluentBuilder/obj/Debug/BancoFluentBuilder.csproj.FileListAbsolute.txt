@@ -1,0 +1,7 @@
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\bin\Debug\BancoFluentBuilder.exe.config
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\bin\Debug\BancoFluentBuilder.exe
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\bin\Debug\BancoFluentBuilder.pdb
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\obj\Debug\BancoFluentBuilder.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\obj\Debug\BancoFluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\obj\Debug\BancoFluentBuilder.exe
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\BancoFluentBuilder\obj\Debug\BancoFluentBuilder.pdb

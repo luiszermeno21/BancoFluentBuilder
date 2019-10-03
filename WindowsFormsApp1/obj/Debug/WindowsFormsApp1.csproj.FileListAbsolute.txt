@@ -1,0 +1,14 @@
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\BancoFluentBuilder.exe
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\BancoFluentBuilder.pdb
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\bin\Debug\BancoFluentBuilder.exe.config
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Luis Zermeño\source\repos\BancoFluentBuilder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
